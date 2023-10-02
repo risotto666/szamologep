@@ -72,7 +72,7 @@ td {
   display: grid;
   border: 1px solid black;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 42%;
   margin-top: 10%;
 }
 .number:active,
